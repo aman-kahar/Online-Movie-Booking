@@ -10,7 +10,7 @@ function NavScrollExample() {
   return (
     <Navbar bg="light" expand="lg">
       <Container fluid>
-        <Navbar.Brand href=""><img src="https://biz.prlog.org/bookmyticket/logo.jpg" alt="Search Movies" width="150" height="30" /></Navbar.Brand>
+        <Navbar.Brand href=""><img src="https://biz.prlog.org/bookmyticket/logo.jpg" alt="Book My Ticket" width="150" height="30" /></Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
